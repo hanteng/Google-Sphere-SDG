@@ -1,0 +1,489 @@
+c_code	l_code	c_name	l_name	_officialStatus	_populationPercent
+AC	en	Ascension Island	English		99.0
+AD	ca	Andorra	Catalan	official	51.0
+AE	ar	United Arab Emirates	Arabic	official	78.0
+AF	bal	Afghanistan	Baluchi	official_regional	0.67
+AF	fa	Afghanistan	Persian	official	50.0
+AF	ps	Afghanistan	Pashto	official	43.0
+AF	tk_Latn	Afghanistan	Turkmen (Latin)	official_regional	1.7
+AF	uz_Arab	Afghanistan	Uzbek (Arabic)	official_regional	4.7
+AG	en	Antigua & Barbuda	English	official	86.0
+AI	en	Anguilla	English	official	95.0
+AL	sq	Albania	Albanian	official	100.0
+AM	hy	Armenia	Armenian	official	98.0
+AO	pt	Angola	Portuguese	official	67.0
+AQ	und	Antarctica	Unknown Language		100.0
+AR	es	Argentina	Spanish	official	100.0
+AS	en	American Samoa	English	de_facto_official	97.0
+AS	sm	American Samoa	Samoan	official	99.0
+AT	bar	Austria	Bavarian		95.0
+AT	de	Austria	German	official	97.0
+AT	hr	Austria	Croatian	official_regional	1.2
+AT	hu	Austria	Hungarian	official_regional	0.27
+AT	sl	Austria	Slovenian	official_regional	0.37
+AU	en	Australia	English	de_facto_official	96.0
+AW	nl	Aruba	Dutch	official	97.0
+AW	pap	Aruba	Papiamento	official	61.0
+AX	sv	Åland Islands	Swedish	official	99.0
+AZ	az_Cyrl	Azerbaijan	Azerbaijani (Cyrillic)	official	9.9
+AZ	az_Latn	Azerbaijan	Azerbaijani (Latin)	official	89.0
+BA	bs_Cyrl	Bosnia & Herzegovina	Bosnian (Cyrillic)	official	99.0
+BA	bs_Latn	Bosnia & Herzegovina	Bosnian (Latin)	official	99.0
+BA	hr	Bosnia & Herzegovina	Croatian	official	12.0
+BA	sr_Cyrl	Bosnia & Herzegovina	Serbian (Cyrillic)	official	10.0
+BA	sr_Latn	Bosnia & Herzegovina	Serbian (Latin)	official	10.0
+BB	en	Barbados	English	official	100.0
+BD	bn	Bangladesh	Bengali	official	98.0
+BE	de	Belgium	German	official	1.4
+BE	fr	Belgium	French	official	38.0
+BE	nl	Belgium	Dutch	official	55.0
+BF	fr	Burkina Faso	French	official	22.0
+BG	bg	Bulgaria	Bulgarian	official	100.0
+BH	ar	Bahrain	Arabic	official	87.0
+BI	en	Burundi	English	official	0.057999999999999996
+BI	fr	Burundi	French	official	59.0
+BI	rn	Burundi	Rundi	official	63.0
+BJ	fr	Benin	French	official	35.0
+BL	fr	St. Barthélemy	French	official	95.0
+BM	en	Bermuda	English	official	92.0
+BN	ms_Arab	Brunei	Malay (Arabic)	official	5.0
+BN	ms_Latn	Brunei	Malay (Latin)	official	93.0
+BO	ay	Bolivia	Aymara	official	20.0
+BO	es	Bolivia	Spanish	official	61.0
+BO	qu	Bolivia	Quechua	official	32.0
+BQ	nl	Caribbean Netherlands	Dutch	official	8.0
+BR	pt	Brazil	Portuguese	official	91.0
+BS	en	Bahamas	English	official	100.0
+BT	dz	Bhutan	Dzongkha	official	47.0
+BV	und	Bouvet Island	Unknown Language		100.0
+BW	en	Botswana	English	official	81.0
+BW	tn	Botswana	Tswana	official	62.0
+BY	be	Belarus	Belarusian	official	100.0
+BY	ru	Belarus	Russian	official	12.0
+BZ	en	Belize	English	official	100.0
+CA	en	Canada	English	official	86.0
+CA	fr	Canada	French	official	22.0
+CA	ikt	Canada	Inuinnaqtun	official_regional	0.011000000000000001
+CA	iu_Cans	Canada	Inuktitut (Unified Canadian Aboriginal Syllabics)	official_regional	0.042
+CA	iu_Latn	Canada	Inuktitut (Latin)	official_regional	0.042
+CC	en	Cocos (Keeling) Islands	English	de_facto_official	17.0
+CD	fr	Congo - Kinshasa	French	official	3.8
+CD	kg	Congo - Kinshasa	Kongo	official_regional	1.5
+CD	ln	Congo - Kinshasa	Lingala	official_regional	3.1
+CD	lua	Congo - Kinshasa	Luba-Lulua	official_regional	9.6
+CD	sw	Congo - Kinshasa	Swahili	official_regional	50.0
+CF	fr	Central African Republic	French	official	49.0
+CF	sg	Central African Republic	Sango	official	49.0
+CG	fr	Congo - Brazzaville	French	official	84.0
+CH	de	Switzerland	German	official	73.0
+CH	fr	Switzerland	French	official	21.0
+CH	gsw	Switzerland	Swiss German	de_facto_official	65.0
+CH	it	Switzerland	Italian	official	4.3
+CH	rm	Switzerland	Romansh	official_regional	0.5
+CI	fr	Côte d’Ivoire	French	official	49.0
+CK	en	Cook Islands	English	official	98.0
+CL	es	Chile	Spanish	official	98.0
+CM	en	Cameroon	English	official	38.0
+CM	fr	Cameroon	French	official	68.0
+CN	bo	China	Tibetan	official_regional	0.2
+CN	ko	China	Korean	official_regional	0.15
+CN	mn_Mong	China	Mongolian (Mongolian)	official_regional	0.26
+CN	ug_Arab	China	Uyghur (Arabic)	official_regional	0.55
+CN	za	China	Zhuang	official_regional	0.31
+CN	zh_Hans	China	Chinese (Simplified)	official	90.0
+CO	es	Colombia	Spanish	official	93.0
+CP	und	Clipperton Island	Unknown Language		100.0
+CR	es	Costa Rica	Spanish	official	95.0
+CU	es	Cuba	Spanish	official	100.0
+CV	kea	Cape Verde	Kabuverdianu		91.0
+CV	pt	Cape Verde	Portuguese	official	76.0
+CW	nl	Curaçao	Dutch	official	8.0
+CW	pap	Curaçao	Papiamento	de_facto_official	81.0
+CX	en	Christmas Island	English	official	92.0
+CY	el	Cyprus	Greek	official	75.0
+CY	tr	Cyprus	Turkish	official	23.0
+CZ	cs	Czech Republic	Czech	official	98.0
+DE	de	Germany	German	official	91.0
+DG	en	Diego Garcia	English	de_facto_official	99.0
+DJ	ar	Djibouti	Arabic	official	7.3
+DJ	fr	Djibouti	French	official	2.1
+DK	da	Denmark	Danish	official	93.0
+DK	de	Denmark	German	official_regional	0.43
+DK	kl	Denmark	Kalaallisut	official_regional	0.13
+DM	en	Dominica	English	official	94.0
+DO	es	Dominican Republic	Spanish	official	78.0
+DZ	ar	Algeria	Arabic	official	74.0
+DZ	fr	Algeria	French	official	20.0
+EA	es	Ceuta & Melilla	Spanish	official	98.0
+EC	es	Ecuador	Spanish	official	96.0
+EC	qu	Ecuador	Quechua	official	17.0
+EE	et	Estonia	Estonian	official	71.0
+EG	ar	Egypt	Arabic	official	94.0
+EH	ar	Western Sahara	Arabic	official	100.0
+ER	ar	Eritrea	Arabic	official	4.9
+ER	en	Eritrea	English	official	59.0
+ER	ti	Eritrea	Tigrinya	de_facto_official	60.0
+ES	ast	Spain	Asturian	official_regional	1.3
+ES	ca	Spain	Catalan	official_regional	17.0
+ES	es	Spain	Spanish	official	99.0
+ES	eu	Spain	Basque	official_regional	2.0
+ES	gl	Spain	Galician	official_regional	7.0
+ET	am	Ethiopia	Amharic	official	33.0
+FI	fi	Finland	Finnish	official	94.0
+FI	sv	Finland	Swedish	official	5.7
+FJ	en	Fiji	English	official	94.0
+FJ	fj	Fiji	Fijian	official	39.0
+FJ	hif_Latn	Fiji	Fiji Hindi (Latin)	official	41.0
+FK	en	Falkland Islands	English	official	84.0
+FM	en	Micronesia	English	official	57.0
+FO	fo	Faroe Islands	Faroese	official	95.0
+FR	fr	France	French	official	99.0
+GA	fr	Gabon	French	official	63.0
+GB	cy	United Kingdom	Welsh	official_regional	0.77
+GB	en	United Kingdom	English	official	99.0
+GB	ga	United Kingdom	Irish	official_regional	0.026000000000000002
+GB	gd	United Kingdom	Scottish Gaelic	official_regional	0.099
+GD	en	Grenada	English	official	96.0
+GE	ab	Georgia	Abkhazian	official_regional	2.2
+GE	ka	Georgia	Georgian	official	86.0
+GE	os	Georgia	Ossetic	official_regional	2.2
+GF	fr	French Guiana	French	official	77.0
+GG	en	Guernsey	English	official	100.0
+GH	ak	Ghana	Akan	official_regional	39.0
+GH	ee	Ghana	Ewe	official_regional	11.0
+GH	en	Ghana	English	official	21.0
+GH	gaa	Ghana	Ga	official_regional	2.8
+GI	en	Gibraltar	English	official	80.0
+GL	kl	Greenland	Kalaallisut	official	84.0
+GM	en	Gambia	English	official	40.0
+GN	fr	Guinea	French	official	29.0
+GP	fr	Guadeloupe	French	official	90.0
+GQ	es	Equatorial Guinea	Spanish	official	87.0
+GQ	fr	Equatorial Guinea	French	official	8.8
+GQ	pt	Equatorial Guinea	Portuguese	official	0.0001
+GR	el	Greece	Greek	official	99.0
+GS	und	South Georgia & South Sandwich Islands	Unknown Language		100.0
+GT	es	Guatemala	Spanish	official	93.0
+GT	quc	Guatemala	Kʼicheʼ	official_regional	7.0
+GU	ch	Guam	Chamorro	official	22.0
+GU	en	Guam	English	de_facto_official	91.0
+GW	pt	Guinea-Bissau	Portuguese	official	100.0
+GY	en	Guyana	English	official	100.0
+HK	en	Hong Kong SAR China	English	official	51.0
+HK	zh_Hant	Hong Kong SAR China	Chinese (Traditional)	official	95.0
+HM	und	Heard & McDonald Islands	Unknown Language		100.0
+HN	es	Honduras	Spanish	official	78.0
+HR	hr	Croatia	Croatian	official	99.0
+HR	it	Croatia	Italian	official_regional	1.6
+HT	fr	Haiti	French	official	4.7
+HT	ht	Haiti	Haitian Creole	official	81.0
+HU	hu	Hungary	Hungarian	official	100.0
+IC	es	Canary Islands	Spanish	official	98.0
+ID	id	Indonesia	Indonesian	official	64.0
+IE	en	Ireland	English	official	98.0
+IE	ga	Ireland	Irish	official	11.0
+IL	ar	Israel	Arabic	official	20.0
+IL	he	Israel	Hebrew	official	100.0
+IM	en	Isle of Man	English	official	100.0
+IM	gv	Isle of Man	Manx	official	1.9
+IN	as	India	Assamese	official_regional	1.3
+IN	bn	India	Bengali	official_regional	8.1
+IN	en	India	English	official	19.0
+IN	gu	India	Gujarati	official_regional	4.5
+IN	hi	India	Hindi	official	41.0
+IN	kha	India	Khasi	official_regional	0.08
+IN	kn	India	Kannada	official_regional	3.7
+IN	kok	India	Konkani	official_regional	0.37
+IN	ks_Arab	India	Kashmiri (Arabic)	official_regional	0.41
+IN	mai	India	Maithili	official_regional	1.2
+IN	ml	India	Malayalam	official_regional	3.2
+IN	mr	India	Marathi	official_regional	7.0
+IN	ne	India	Nepali	official_regional	0.56
+IN	or	India	Oriya	official_regional	3.2
+IN	pa_Guru	India	Punjabi (Gurmukhi)	official_regional	2.8
+IN	sa	India	Sanskrit	official_regional	0.0012
+IN	sat	India	Santali	official_regional	0.55
+IN	sd_Arab	India	Sindhi (Arabic)	official_regional	0.26
+IN	sd_Deva	India	Sindhi (Devanagari)	official_regional	0.026000000000000002
+IN	ta	India	Tamil	official_regional	5.9
+IN	te	India	Telugu	official_regional	7.2
+IN	ur	India	Urdu	official_regional	5.0
+IO	en	British Indian Ocean Territory	English	official	100.0
+IQ	ar	Iraq	Arabic	official	68.0
+IQ	az_Arab	Iraq	Azerbaijani (Arabic)	official_regional	1.8
+IQ	ckb	Iraq	Central Kurdish	official_regional	20.0
+IR	fa	Iran	Persian	official	75.0
+IS	is	Iceland	Icelandic	official	100.0
+IT	fr	Italy	French	official_regional	6.3
+IT	it	Italy	Italian	official	95.0
+JE	en	Jersey	English	official	95.0
+JM	en	Jamaica	English	official	98.0
+JM	jam	Jamaica	Jamaican Creole English		95.0
+JO	ar	Jordan	Arabic	official	100.0
+JP	ja	Japan	Japanese	official	95.0
+KE	en	Kenya	English	official	19.0
+KE	sw	Kenya	Swahili	official	66.0
+KG	ky_Cyrl	Kyrgyzstan	Kyrgyz (Cyrillic)	official	48.0
+KG	ru	Kyrgyzstan	Russian	official	36.0
+KH	km	Cambodia	Khmer	official	89.0
+KI	en	Kiribati	English	official	100.0
+KI	gil	Kiribati	Gilbertese	official	60.0
+KM	ar	Comoros	Arabic	official	66.0
+KM	fr	Comoros	French	official	56.0
+KM	wni	Comoros	Ndzwani Comorian	official	34.0
+KM	zdj	Comoros	Ngazidja Comorian	official	37.0
+KN	en	St. Kitts & Nevis	English	official	98.0
+KP	ko	North Korea	Korean	official	88.0
+KR	ko	South Korea	Korean	official	100.0
+KW	ar	Kuwait	Arabic	official	100.0
+KY	en	Cayman Islands	English	official	98.0
+KZ	kk_Cyrl	Kazakhstan	Kazakh (Cyrillic)	official	64.0
+KZ	ru	Kazakhstan	Russian	official	72.0
+LA	lo	Laos	Lao	official	69.0
+LB	ar	Lebanon	Arabic	official	86.0
+LC	en	St. Lucia	English	official	90.0
+LI	de	Liechtenstein	German	official	100.0
+LI	gsw	Liechtenstein	Swiss German	de_facto_official	85.0
+LK	si	Sri Lanka	Sinhala	official	68.0
+LK	ta	Sri Lanka	Tamil	official	15.0
+LR	en	Liberia	English	official	83.0
+LS	en	Lesotho	English	official	27.0
+LS	st	Lesotho	Southern Sotho	official	98.0
+LT	lt	Lithuania	Lithuanian	official	86.0
+LU	de	Luxembourg	German	official	63.0
+LU	fr	Luxembourg	French	official	87.0
+LU	lb	Luxembourg	Luxembourgish	official	67.0
+LV	lv	Latvia	Latvian	official	61.0
+LY	ar	Libya	Arabic	official	74.0
+MA	ar	Morocco	Arabic	official	62.0
+MA	fr	Morocco	French	de_facto_official	20.0
+MA	tzm_Latn	Morocco	Central Atlas Tamazight (Latin)	official	9.8
+MC	fr	Monaco	French	official	99.0
+MD	ro	Moldova	Romanian	official	63.0
+ME	sr_Latn	Montenegro	Serbian (Latin)	official	100.0
+MF	fr	St. Martin	French	official	100.0
+MG	en	Madagascar	English	official	18.0
+MG	fr	Madagascar	French	official	69.0
+MG	mg	Madagascar	Malagasy	official	90.0
+MH	en	Marshall Islands	English	official	93.0
+MH	mh	Marshall Islands	Marshallese	official	73.0
+MK	mk	Macedonia	Macedonian	official	67.0
+MK	sq	Macedonia	Albanian	official_regional	25.0
+ML	fr	Mali	French	official	46.0
+MM	my	Myanmar (Burma)	Burmese	official	64.0
+MN	mn_Cyrl	Mongolia	Mongolian (Cyrillic)	official	93.0
+MO	pt	Macau SAR China	Portuguese	official	5.0
+MO	zh_Hant	Macau SAR China	Chinese (Traditional)	official	98.0
+MP	en	Northern Mariana Islands	English	de_facto_official	97.0
+MQ	fr	Martinique	French	official	98.0
+MR	ar	Mauritania	Arabic	official	85.0
+MS	en	Montserrat	English	official	67.0
+MT	en	Malta	English	official	88.0
+MT	mt	Malta	Maltese	official	100.0
+MU	en	Mauritius	English	official	72.0
+MU	fr	Mauritius	French	official	3.0
+MV	dv	Maldives	Divehi	official	94.0
+MW	en	Malawi	English	official	63.0
+MW	ny	Malawi	Nyanja	official	63.0
+MX	es	Mexico	Spanish	de_facto_official	83.0
+MY	ms_Latn	Malaysia	Malay (Latin)	official	75.0
+MZ	pt	Mozambique	Portuguese	official	27.0
+NA	en	Namibia	English	official	7.0
+NC	fr	New Caledonia	French	official	96.0
+NE	fr	Niger	French	official	29.0
+NF	en	Norfolk Island	English	official	76.0
+NG	en	Nigeria	English	official	53.0
+NG	yo	Nigeria	Yoruba	official	13.0
+NI	es	Nicaragua	Spanish	official	78.0
+NL	fy	Netherlands	Western Frisian	official_regional	4.3
+NL	nl	Netherlands	Dutch	official	100.0
+NO	nb	Norway	Norwegian Bokmål	official	100.0
+NO	nn	Norway	Norwegian Nynorsk	official	25.0
+NO	se	Norway	Northern Sami	official_regional	3.3
+NP	ne	Nepal	Nepali	official	44.0
+NR	en	Nauru	English	official	98.0
+NR	na	Nauru	Nauru	official	72.0
+NU	en	Niue	English	official	95.0
+NU	niu	Niue	Niuean	official	95.0
+NZ	en	New Zealand	English	de_facto_official	98.0
+NZ	mi	New Zealand	Maori	official	2.5
+OM	ar	Oman	Arabic	official	81.0
+PA	es	Panama	Spanish	official	69.0
+PE	es	Peru	Spanish	official	73.0
+PE	qu	Peru	Quechua	official	15.0
+PF	fr	French Polynesia	French	official	61.0
+PF	ty	French Polynesia	Tahitian	official	31.0
+PG	en	Papua New Guinea	English	official	50.0
+PG	ho	Papua New Guinea	Hiri Motu	official	2.1
+PG	tpi	Papua New Guinea	Tok Pisin	official	71.0
+PH	ceb	Philippines	Cebuano	official_regional	24.0
+PH	en	Philippines	English	official	64.0
+PH	fil	Philippines	Filipino	official	60.0
+PH	hil	Philippines	Hiligaynon	official_regional	8.4
+PH	ilo	Philippines	Iloko	official_regional	9.6
+PH	mdh	Philippines	Maguindanaon	official_regional	1.2
+PH	pag	Philippines	Pangasinan	official_regional	1.4
+PH	tsg	Philippines	Tausug	official_regional	1.1
+PH	war	Philippines	Waray	official_regional	2.9
+PK	en	Pakistan	English	official	50.0
+PK	ur	Pakistan	Urdu	official	95.0
+PL	csb	Poland	Kashubian	official_regional	0.13
+PL	de	Poland	German	official_regional	0.096
+PL	lt	Poland	Lithuanian	official_regional	0.021
+PL	pl	Poland	Polish	official	96.0
+PM	fr	St. Pierre & Miquelon	French	official	90.0
+PN	en	Pitcairn Islands	English	official	96.0
+PR	en	Puerto Rico	English	de_facto_official	49.0
+PR	es	Puerto Rico	Spanish	official	87.0
+PS	ar	Palestinian Territories	Arabic	official	100.0
+PT	pt	Portugal	Portuguese	official	96.0
+PW	en	Palau	English	official	8.8
+PW	pau	Palau	Palauan	official	74.0
+PY	es	Paraguay	Spanish	official	3.2
+PY	gn	Paraguay	Guarani	official	80.0
+QA	ar	Qatar	Arabic	official	89.0
+RE	fr	Réunion	French	official	89.0
+RO	ro	Romania	Romanian	official	90.0
+RS	hr	Serbia	Croatian	official_regional	0.93
+RS	hu	Serbia	Hungarian	official_regional	4.8
+RS	ro	Serbia	Romanian	official_regional	2.1
+RS	sk	Serbia	Slovak	official_regional	0.85
+RS	sr_Cyrl	Serbia	Serbian (Cyrillic)	official	99.0
+RS	sr_Latn	Serbia	Serbian (Latin)	official	99.0
+RS	uk	Serbia	Ukrainian	official_regional	0.0
+RU	ady	Russia	Adyghe	official_regional	0.08800000000000001
+RU	av	Russia	Avaric	official_regional	0.39
+RU	az_Cyrl	Russia	Azerbaijani (Cyrillic)	official_regional	0.09300000000000001
+RU	ba	Russia	Bashkir	official_regional	1.3
+RU	ce	Russia	Chechen	official_regional	0.66
+RU	inh	Russia	Ingush	official_regional	0.16
+RU	kbd	Russia	Kabardian	official_regional	0.31
+RU	koi	Russia	Komi-Permyak	official_regional	0.045
+RU	krc	Russia	Karachay-Balkar	official_regional	0.16
+RU	kum	Russia	Kumyk	official_regional	0.2
+RU	kv	Russia	Komi	official_regional	0.18
+RU	lbe	Russia	Lak	official_regional	0.078
+RU	lez	Russia	Lezghian	official_regional	0.18
+RU	mdf	Russia	Moksha	official_regional	0.21
+RU	myv	Russia	Erzya	official_regional	0.31
+RU	ru	Russia	Russian	official	94.0
+RU	sah	Russia	Sakha	official_regional	0.32
+RU	tt	Russia	Tatar	official_regional	1.4
+RU	tyv	Russia	Tuvinian	official_regional	0.13
+RU	udm	Russia	Udmurt	official_regional	0.38
+RW	en	Rwanda	English	official	15.0
+RW	fr	Rwanda	French	official	0.018000000000000002
+RW	rw	Rwanda	Kinyarwanda	official	77.0
+SA	ar	Saudi Arabia	Arabic	official	100.0
+SB	en	Solomon Islands	English	official	100.0
+SC	crs	Seychelles	Seselwa Creole French		98.0
+SC	en	Seychelles	English	official	38.0
+SC	fr	Seychelles	French	official	60.0
+SD	ar	Sudan	Arabic	official	61.0
+SD	en	Sudan	English	official	61.0
+SE	fi	Sweden	Finnish	official_regional	2.2
+SE	sv	Sweden	Swedish	official	95.0
+SG	en	Singapore	English	official	93.0
+SG	ms_Latn	Singapore	Malay (Latin)	official	14.0
+SG	ta	Singapore	Tamil	official	2.1
+SG	zh_Hans	Singapore	Chinese (Simplified)	official	77.0
+SH	en	St. Helena	English	official	69.0
+SI	sl	Slovenia	Slovenian	official	87.0
+SJ	nb	Svalbard & Jan Mayen	Norwegian Bokmål	official	80.0
+SK	sk	Slovakia	Slovak	official	90.0
+SL	en	Sierra Leone	English	official	35.0
+SL	kri	Sierra Leone	Krio		95.0
+SM	it	San Marino	Italian	official	89.0
+SN	bjt	Senegal	Balanta-Ganja	official_regional	0.61
+SN	bsc	Senegal	Bassari	official_regional	0.098
+SN	dyo	Senegal	Jola-Fonyi	official_regional	2.6
+SN	ff	Senegal	Fulah	official_regional	21.0
+SN	fr	Senegal	French	official	39.0
+SN	knf	Senegal	Mankanya	official_regional	0.21
+SN	mey	Senegal	Hassaniyya	official_regional	0.051
+SN	mfv	Senegal	Mandjak	official_regional	0.77
+SN	sav	Senegal	Saafi-Saafi	official_regional	1.5
+SN	snf	Senegal	Noon	official_regional	0.24
+SN	srr	Senegal	Serer	official_regional	11.0
+SN	tnr	Senegal	Ménik	official_regional	0.024
+SN	wo	Senegal	Wolof	de_facto_official	70.0
+SO	ar	Somalia	Arabic	official	34.0
+SO	so	Somalia	Somali	official	78.0
+SR	nl	Suriname	Dutch	official	90.0
+SS	en	South Sudan	English	official	27.0
+ST	pt	São Tomé & Príncipe	Portuguese	official	85.0
+SV	es	El Salvador	Spanish	official	89.0
+SX	en	Sint Maarten	English	official	68.0
+SX	nl	Sint Maarten	Dutch	official	4.0
+SY	ar	Syria	Arabic	official	80.0
+SY	fr	Syria	French	official	5.9
+SZ	en	Swaziland	English	official	80.0
+SZ	ss	Swaziland	Swati	official	58.0
+TA	en	Tristan da Cunha	English		99.0
+TC	en	Turks & Caicos Islands	English	official	98.0
+TD	ar	Chad	Arabic	official	17.0
+TD	fr	Chad	French	official	26.0
+TF	fr	French Southern Territories	French		100.0
+TG	fr	Togo	French	official	61.0
+TH	th	Thailand	Thai	official	80.0
+TJ	tg_Cyrl	Tajikistan	Tajik (Cyrillic)	official	100.0
+TK	en	Tokelau	English	official	100.0
+TK	tkl	Tokelau	Tokelau	official	100.0
+TL	pt	Timor-Leste	Portuguese	official	59.0
+TL	tet	Timor-Leste	Tetum	official	59.0
+TM	tk_Latn	Turkmenistan	Turkmen (Latin)	official	70.0
+TN	ar	Tunisia	Arabic	official	90.0
+TN	fr	Tunisia	French	official	74.0
+TO	en	Tonga	English	official	28.0
+TO	to	Tonga	Tongan	official	95.0
+TR	tr	Turkey	Turkish	official	93.0
+TT	en	Trinidad & Tobago	English	official	88.0
+TV	en	Tuvalu	English	official	9.8
+TV	tvl	Tuvalu	Tuvalu	official	91.0
+TW	zh_Hant	Taiwan	Chinese (Traditional)	official	95.0
+TZ	en	Tanzania	English	official	69.0
+TZ	sw	Tanzania	Swahili	official	90.0
+UA	ru	Ukraine	Russian	de_facto_official	46.0
+UA	uk	Ukraine	Ukrainian	official	65.0
+UG	en	Uganda	English	official	3.9
+UG	sw	Uganda	Swahili	official	75.0
+UM	en	U.S. Outlying Islands	English	de_facto_official	100.0
+US	en	United States	English	de_facto_official	96.0
+US	es	United States	Spanish	official_regional	9.6
+US	haw	United States	Hawaiian	official_regional	0.0089
+UY	es	Uruguay	Spanish	official	88.0
+UZ	uz_Cyrl	Uzbekistan	Uzbek (Cyrillic)	official	15.0
+UZ	uz_Latn	Uzbekistan	Uzbek (Latin)	official	85.0
+VA	it	Vatican City	Italian		98.0
+VA	la	Vatican City	Latin		98.0
+VC	en	St. Vincent & Grenadines	English	official	96.0
+VE	es	Venezuela	Spanish	official	82.0
+VG	en	British Virgin Islands	English	official	98.0
+VI	en	U.S. Virgin Islands	English	de_facto_official	75.0
+VN	vi	Vietnam	Vietnamese	official	86.0
+VU	bi	Vanuatu	Bislama	official	90.0
+VU	en	Vanuatu	English	official	83.0
+VU	fr	Vanuatu	French	official	50.0
+WF	fr	Wallis & Futuna	French	official	49.0
+WS	en	Samoa	English	official	2.2
+WS	sm	Samoa	Samoan	official	100.0
+XK	sq	Kosovo	Albanian	official	92.0
+XK	sr_Cyrl	Kosovo	Serbian (Cyrillic)	official	5.0
+XK	sr_Latn	Kosovo	Serbian (Latin)	official	5.0
+YE	ar	Yemen	Arabic	official	74.0
+YT	fr	Mayotte	French	official	57.0
+ZA	af	South Africa	Afrikaans	official_regional	13.0
+ZA	en	South Africa	English	official	31.0
+ZA	nr	South Africa	South Ndebele	official_regional	1.6
+ZA	nso	South Africa	Northern Sotho	official_regional	9.4
+ZA	ss	South Africa	Swati	official_regional	2.7
+ZA	st	South Africa	Southern Sotho	official_regional	7.9
+ZA	tn	South Africa	Tswana	official_regional	8.2
+ZA	ts	South Africa	Tsonga	official_regional	4.4
+ZA	ve	South Africa	Venda	official_regional	2.3
+ZA	xh	South Africa	Xhosa	official_regional	18.0
+ZA	zu	South Africa	Zulu	official_regional	24.0
+ZM	en	Zambia	English	official	16.0
+ZW	en	Zimbabwe	English	official	42.0
+ZW	nd	Zimbabwe	North Ndebele	official	12.0
+ZW	sn	Zimbabwe	Shona	official	81.0

@@ -1,0 +1,239 @@
+code	name	c_code
+	any region	
+countryAF	Afghanistan	AF
+countryAL	Albania	AL
+countryDZ	Algeria	DZ
+countryAS	American Samoa	AS
+countryAD	Andorra	AD
+countryAO	Angola	AO
+countryAI	Anguilla	AI
+countryAQ	Antarctica	AQ
+countryAG	Antigua & Barbuda	AG
+countryAR	Argentina	AR
+countryAM	Armenia	AM
+countryAW	Aruba	AW
+countryAU	Australia	AU
+countryAT	Austria	AT
+countryAZ	Azerbaijan	AZ
+countryBS	Bahamas	BS
+countryBH	Bahrain	BH
+countryBD	Bangladesh	BD
+countryBB	Barbados	BB
+countryBY	Belarus	BY
+countryBE	Belgium	BE
+countryBZ	Belize	BZ
+countryBJ	Benin	BJ
+countryBM	Bermuda	BM
+countryBT	Bhutan	BT
+countryBO	Bolivia	BO
+countryBA	Bosnia & Herzegovina	BA
+countryBW	Botswana	BW
+countryBV	Bouvet Island	BV
+countryBR	Brazil	BR
+countryIO	British Indian Ocean Territory	IO
+countryVG	British Virgin Islands	VG
+countryBN	Brunei	BN
+countryBG	Bulgaria	BG
+countryBF	Burkina Faso	BF
+countryBI	Burundi	BI
+countryKH	Cambodia	KH
+countryCM	Cameroon	CM
+countryCA	Canada	CA
+countryCV	Cape Verde	CV
+countryKY	Cayman Islands	KY
+countryCF	Central African Republic	CF
+countryTD	Chad	TD
+countryCL	Chile	CL
+countryCN	China	CN
+countryCX	Christmas Island	CX
+countryCC	Cocos (Keeling) Islands	CC
+countryCO	Colombia	CO
+countryKM	Comoros	KM
+countryCD	Congo (DRC)	CD
+countryCG	Congo (Republic)	CG
+countryCK	Cook Islands	CK
+countryCR	Costa Rica	CR
+countryCI	Côte d’Ivoire	CI
+countryHR	Croatia	HR
+countryCU	Cuba	CU
+countryCY	Cyprus	CY
+countryCZ	Czech Republic	CZ
+countryDK	Denmark	DK
+countryDJ	Djibouti	DJ
+countryDM	Dominica	DM
+countryDO	Dominican Republic	DO
+countryEC	Ecuador	EC
+countryEG	Egypt	EG
+countrySV	El Salvador	SV
+countryGQ	Equatorial Guinea	GQ
+countryER	Eritrea	ER
+countryEE	Estonia	EE
+countryET	Ethiopia	ET
+countryFK	Falkland Islands (Islas Malvinas)	FK
+countryFO	Faroe Islands	FO
+countryFJ	Fiji	FJ
+countryFI	Finland	FI
+countryFR	France	FR
+countryGF	French Guiana	GF
+countryPF	French Polynesia	PF
+countryTF	French Southern Territories	TF
+countryGA	Gabon	GA
+countryGM	Gambia	GM
+countryGE	Georgia	GE
+countryDE	Germany	DE
+countryGH	Ghana	GH
+countryGI	Gibraltar	GI
+countryGR	Greece	GR
+countryGL	Greenland	GL
+countryGD	Grenada	GD
+countryGP	Guadeloupe	GP
+countryGU	Guam	GU
+countryGT	Guatemala	GT
+countryGN	Guinea	GN
+countryGW	Guinea-Bissau	GW
+countryGY	Guyana	GY
+countryHT	Haiti	HT
+countryHM	Heard & McDonald Islands	HM
+countryHN	Honduras	HN
+countryHK	Hong Kong	HK
+countryHU	Hungary	HU
+countryIS	Iceland	IS
+countryIN	India	IN
+countryID	Indonesia	ID
+countryIR	Iran	IR
+countryIQ	Iraq	IQ
+countryIE	Ireland	IE
+countryIL	Israel	IL
+countryIT	Italy	IT
+countryJM	Jamaica	JM
+countryJP	Japan	JP
+countryJO	Jordan	JO
+countryKZ	Kazakhstan	KZ
+countryKE	Kenya	KE
+countryKI	Kiribati	KI
+countryKW	Kuwait	KW
+countryKG	Kyrgyzstan	KG
+countryLA	Laos	LA
+countryLV	Latvia	LV
+countryLB	Lebanon	LB
+countryLS	Lesotho	LS
+countryLR	Liberia	LR
+countryLY	Libya	LY
+countryLI	Liechtenstein	LI
+countryLT	Lithuania	LT
+countryLU	Luxembourg	LU
+countryMO	Macau	MO
+countryMK	Macedonia (FYROM)	MK
+countryMG	Madagascar	MG
+countryMW	Malawi	MW
+countryMY	Malaysia	MY
+countryMV	Maldives	MV
+countryML	Mali	ML
+countryMT	Malta	MT
+countryMH	Marshall Islands	MH
+countryMQ	Martinique	MQ
+countryMR	Mauritania	MR
+countryMU	Mauritius	MU
+countryYT	Mayotte	YT
+countryMX	Mexico	MX
+countryFM	Micronesia	FM
+countryMD	Moldova	MD
+countryMC	Monaco	MC
+countryMN	Mongolia	MN
+countryMS	Montserrat	MS
+countryMA	Morocco	MA
+countryMZ	Mozambique	MZ
+countryMM	Myanmar (Burma)	MM
+countryNA	Namibia	NA
+countryNR	Nauru	NR
+countryNP	Nepal	NP
+countryNL	Netherlands	NL
+countryNC	New Caledonia	NC
+countryNZ	New Zealand	NZ
+countryNI	Nicaragua	NI
+countryNE	Niger	NE
+countryNG	Nigeria	NG
+countryNU	Niue	NU
+countryNF	Norfolk Island	NF
+countryKP	North Korea	KP
+countryMP	Northern Mariana Islands	MP
+countryNO	Norway	NO
+countryOM	Oman	OM
+countryPK	Pakistan	PK
+countryPW	Palau	PW
+countryPS	Palestine	PS
+countryPA	Panama	PA
+countryPG	Papua New Guinea	PG
+countryPY	Paraguay	PY
+countryPE	Peru	PE
+countryPH	Philippines	PH
+countryPN	Pitcairn Islands	PN
+countryPL	Poland	PL
+countryPT	Portugal	PT
+countryPR	Puerto Rico	PR
+countryQA	Qatar	QA
+countryRE	Réunion	RE
+countryRO	Romania	RO
+countryRU	Russia	RU
+countryRW	Rwanda	RW
+countryWS	Samoa	WS
+countrySM	San Marino	SM
+countryST	São Tomé & Príncipe	ST
+countrySA	Saudi Arabia	SA
+countrySN	Senegal	SN
+countryRS	Serbia	RS
+countrySC	Seychelles	SC
+countrySL	Sierra Leone	SL
+countrySG	Singapore	SG
+countrySK	Slovakia	SK
+countrySI	Slovenia	SI
+countrySB	Solomon Islands	SB
+countrySO	Somalia	SO
+countryZA	South Africa	ZA
+countryGS	South Georgia & South Sandwich Islands	GS
+countryKR	South Korea	KR
+countryES	Spain	ES
+countryLK	Sri Lanka	LK
+countrySH	St. Helena	SH
+countryKN	St. Kitts & Nevis	KN
+countryLC	St. Lucia	LC
+countryPM	St. Pierre & Miquelon	PM
+countryVC	St. Vincent & Grenadines	VC
+countrySD	Sudan	SD
+countrySR	Suriname	SR
+countrySJ	Svalbard & Jan Mayen	SJ
+countrySZ	Swaziland	SZ
+countrySE	Sweden	SE
+countryCH	Switzerland	CH
+countrySY	Syria	SY
+countryTW	Taiwan	TW
+countryTJ	Tajikistan	TJ
+countryTZ	Tanzania	TZ
+countryTH	Thailand	TH
+countryTG	Togo	TG
+countryTK	Tokelau	TK
+countryTO	Tonga	TO
+countryTT	Trinidad & Tobago	TT
+countryTN	Tunisia	TN
+countryTR	Turkey	TR
+countryTM	Turkmenistan	TM
+countryTC	Turks & Caicos Islands	TC
+countryTV	Tuvalu	TV
+countryUM	U.S. Outlying Islands	UM
+countryVI	U.S. Virgin Islands	VI
+countryUG	Uganda	UG
+countryUA	Ukraine	UA
+countryAE	United Arab Emirates	AE
+countryGB	United Kingdom	GB
+countryUS	United States	US
+countryUY	Uruguay	UY
+countryUZ	Uzbekistan	UZ
+countryVU	Vanuatu	VU
+countryVA	Vatican City	VA
+countryVE	Venezuela	VE
+countryVN	Vietnam	VN
+countryWF	Wallis & Futuna	WF
+countryEH	Western Sahara	EH
+countryYE	Yemen	YE
+countryZM	Zambia	ZM
+countryZW	Zimbabwe	ZW
